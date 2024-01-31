@@ -1,0 +1,15 @@
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.csproj.AssemblyReference.cache
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.AssemblyInfoInputs.cache
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.AssemblyInfo.cs
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/jordanrowland/projects/csh/tictactoe/bin/Debug/net7.0/tictactoe
+/Users/jordanrowland/projects/csh/tictactoe/bin/Debug/net7.0/tictactoe.deps.json
+/Users/jordanrowland/projects/csh/tictactoe/bin/Debug/net7.0/tictactoe.runtimeconfig.json
+/Users/jordanrowland/projects/csh/tictactoe/bin/Debug/net7.0/tictactoe.dll
+/Users/jordanrowland/projects/csh/tictactoe/bin/Debug/net7.0/tictactoe.pdb
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.dll
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/refint/tictactoe.dll
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.pdb
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/tictactoe.genruntimeconfig.cache
+/Users/jordanrowland/projects/csh/tictactoe/obj/Debug/net7.0/ref/tictactoe.dll
